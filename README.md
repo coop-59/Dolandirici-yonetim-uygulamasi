@@ -1,2 +1,2 @@
-# Dolandirici-yonetim-uygulamasi
-Discordda yapılan dolandırıcıları yönetmek için tasarladım
+# Dolandırıcı yönetim uygulaması
+Discordda yapılan dolandırıcıları rahatlıkla yönetmek için geliştirdiğim ilk uygulamamdır.
